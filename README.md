@@ -34,7 +34,7 @@ It will be a living resource where we develop a set of competencies and skills w
 
 1. Web app development
 2. Testing methodologies
-3. Deployment (continuous integration/deployment, legacy systems, universal deployment)
+3. [Deployment](https://github.com/fathomlabs/training/blob/master/resources/deployment.md)
 4. Data structures
 
 ### Analytical
