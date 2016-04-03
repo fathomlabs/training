@@ -23,12 +23,12 @@ It will be a living resource where we develop a set of competencies and skills w
 
 ### Systems
 
-1. The open web
+1. [The open web](https://github.com/fathomlabs/training/blob/master/resources/the_open_web.md)
 2. Data and information architecture
 3. Network and application security
 4. Cloud infrastructure
 5. Devops and system administration
-6. Virtualisation and containerisation
+6. [Virtualisation and containerisation]((https://github.com/fathomlabs/training/blob/master/resources/virtualisation_and_containerisation.md))
 
 ### Software
 
