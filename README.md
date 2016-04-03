@@ -32,9 +32,10 @@ It will be a living resource where we develop a set of competencies and skills w
 
 ### Software
 
-1. Testing methodologies
-2. Deployment (continuous integration/deployment, legacy systems, universal deployment)
-3. Data structures
+1. Web app development
+2. Testing methodologies
+3. Deployment (continuous integration/deployment, legacy systems, universal deployment)
+4. Data structures
 
 ### Analytical
 
