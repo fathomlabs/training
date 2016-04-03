@@ -28,7 +28,7 @@ It will be a living resource where we develop a set of competencies and skills w
 3. Network and application security
 4. Cloud infrastructure
 5. Devops and system administration
-6. [Virtualisation and containerisation]((https://github.com/fathomlabs/training/blob/master/resources/virtualisation_and_containerisation.md))
+6. [Virtualisation and containerisation](https://github.com/fathomlabs/training/blob/master/resources/virtualisation_and_containerisation.md)
 
 ### Software
 
